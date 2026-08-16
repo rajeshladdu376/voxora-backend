@@ -1,0 +1,12 @@
+[
+  {
+    "clientId": "a315fd44-da2f-4767-9f53-266291a2ba63",
+    "companyName": "Acme Corp",
+    "website": "https://acme.com",
+    "email": "acme@example.com",
+    "phone": "+1234567890",
+    "password": "$2b$10$examplehashedpassword",
+    "createdDate": "2026-08-02T16:09:49.839Z",
+    "updatedAt": "2026-08-02T16:09:49.839Z"
+  }
+]
